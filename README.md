@@ -5,7 +5,7 @@ This repository is implemented by Caffe on SVHN dataset
 
 ## Model
 
-![Model](https://github.com/SuHuynhImage-Enhancement-using-Deep-Learning/blob/master/results/model.PNG)
+![Model](https://github.com/SuHuynh/Image-Enhancement-using-Deep-Learning/blob/master/imgs/model.PNG)
 
 
 ## Results
